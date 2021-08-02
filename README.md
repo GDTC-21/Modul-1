@@ -11,4 +11,5 @@ Class adalah sebuah definisi dari sebuah objek, bisa dianalogikan dengan bluepri
 ### Object
 
 Object adalah implementasi dari sebuah Class
+
 ![](./illustration_oop_1.gif)
