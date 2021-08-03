@@ -1,6 +1,6 @@
 # Modul-1
 
-## OOP 
+## OOP (Object Oriented Programming)
 
 ### Class
 
