@@ -25,3 +25,7 @@ Inheritance adalah konsep penurunan sifat dari _Parent class_ ke _child class_
 ### PolyMorphism
 
 Polymorphism adalah konsep perubahan bentuk (tergantung sudut pandang) sebuah objek
+
+### Interfaces
+
+Interface adalah konsep untuk mempermudah komunikasi antar class/object/program
