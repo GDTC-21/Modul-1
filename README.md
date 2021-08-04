@@ -33,3 +33,5 @@ Polymorphism adalah konsep perubahan bentuk (tergantung sudut pandang) sebuah ob
 ### Interfaces
 
 Interface adalah konsep untuk mempermudah komunikasi antar class/object/program
+
+![](./illustration_oop_4.gif)
