@@ -22,9 +22,13 @@ Object adalah implementasi dari sebuah Class
 
 Inheritance adalah konsep penurunan sifat dari _Parent class_ ke _child class_ 
 
+![](./illustration_oop_2.png)
+
 ### PolyMorphism
 
 Polymorphism adalah konsep perubahan bentuk (tergantung sudut pandang) sebuah objek
+
+![](./illustration_oop_3.gif)
 
 ### Interfaces
 
