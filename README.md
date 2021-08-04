@@ -40,4 +40,4 @@ Interface adalah konsep untuk mempermudah komunikasi antar class/object/program
 
 ### Start from basic (Player Movement)
 
-![](./1_1__player_movement.gif)
+![](./1_1_player_movement.gif)
