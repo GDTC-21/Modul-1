@@ -47,6 +47,9 @@ Interface adalah konsep untuk mempermudah komunikasi antar class/object/program
 3. Collision
 
 ### Guns !!!
+
+![](./1_2_gun.mov)
+
 1. Gun Game Object 
 2. Bullet Prefabs 
 3. Instantiate
