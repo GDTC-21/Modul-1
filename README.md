@@ -41,3 +41,13 @@ Interface adalah konsep untuk mempermudah komunikasi antar class/object/program
 ### Start from basic (Player Movement)
 
 ![](./1_1_player_movement.gif)
+
+1. Create Game Object
+2. Create Scripts
+3. Collision
+
+### Guns !!!
+1. Gun Game Object 
+2. Bullet Prefabs 
+3. Instantiate
+4. Collision
