@@ -1,10 +1,10 @@
 # Modul-1
 
 ## OOP (Object Oriented Programming)
-1.Class
-2.Object
-3.Inheritance
-4.Polymorph
+1. Class
+2. Object
+3. Inheritance
+4. Polymorph
 
 ### Class
 
